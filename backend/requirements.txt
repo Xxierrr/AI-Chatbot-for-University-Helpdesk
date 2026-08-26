@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-multipart
+python-dotenv
+google-genai
+chromadb
+sentence-transformers
+PyPDF2
+python-docx
+pydantic
+aiofiles
+pytest
+httpx
